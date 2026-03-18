@@ -1,0 +1,51 @@
+﻿측정일시,status_code,code,message,error_text
+202501060600,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501060700,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501060800,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501060900,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501061000,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501061100,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501061200,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501061300,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501061400,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
+202501061500,200,,,"<?xml version=""1.0"" encoding=""UTF-8""?>
+<RESULT>
+<CODE>INFO-200</CODE>
+<MESSAGE>해당하는 데이터가 없습니다.</MESSAGE>
+</RESULT>"
