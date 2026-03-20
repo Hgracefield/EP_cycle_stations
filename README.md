@@ -259,29 +259,20 @@ lib/
 
 
 - 소비자
-
 splash_page
-
 auth_page
-
 map_page
-
-station_detail_page
-
 reservation_page
 
 - 기사님
-
-worker_dashboard_page
-
 map_page
-
-station_detail_page
 
 - 관리자
-
 admin_dashboard_page
 
-map_page
-
-station_detail_page
+상현 : 홈페이지 map폴더
+다원 : 로그인 auth폴더
+찬솔 : 대시보드 dashboard 폴더
+신영 : 아저씨 worker폴더
+광태 : 예약 reservation 폴더
+혜전 : splash, ERD, workbench.
