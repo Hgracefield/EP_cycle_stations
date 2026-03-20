@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:seoul_bike_prediction/routes/demo_nav_scaffold.dart';
+import 'package:seoul_bike_prediction/routes/router_names.dart';
 
-class DashboardPage extends StatefulWidget {
+class DashboardPage extends StatelessWidget {
   const DashboardPage({super.key});
 
   @override
-  State<DashboardPage> createState() => _DashboardPageState();
-}
-
-class _DashboardPageState extends State<DashboardPage> {
-  @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const DemoNavScaffold(
+      title: 'Dashboard Page',
+      currentRoute: RouterNames.dashboard,
+    );
   }
 }

@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:seoul_bike_prediction/routes/demo_nav_scaffold.dart';
+import 'package:seoul_bike_prediction/routes/router_names.dart';
 
-class AuthPage extends StatefulWidget {
+class AuthPage extends StatelessWidget {
   const AuthPage({super.key});
 
   @override
-  State<AuthPage> createState() => _AuthPageState();
-}
-
-class _AuthPageState extends State<AuthPage> {
-  @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const DemoNavScaffold(
+      title: 'Auth Page',
+      currentRoute: RouterNames.auth,
+    );
   }
 }
