@@ -212,7 +212,7 @@ lib/
    │  ├─ auth_service.dart
    │  └─ widgets/
    │     └─ login_form.dart
-   ├─ map/
+   ├─ map_for_user/
    │  ├─ map_page.dart
    │  ├─ map_provider.dart
    │  ├─ map_service.dart
@@ -233,7 +233,7 @@ lib/
    │     ├─ summary_card.dart
    │     ├─ refill_card.dart
    │     └─ station_status_table.dart
-   ├─ station/
+   ├─ map_for_worker/
    │  ├─ station_detail_page.dart
    │  ├─ station_provider.dart
    │  ├─ station_service.dart
@@ -259,20 +259,20 @@ lib/
 
 
 - 소비자
-splash_page
-auth_page
-map_page
-reservation_page
+splash_page.dart
+auth_page.dart
+map_for_user_page.dart
+reservation_page.dart
 
 - 기사님
-map_page
+map_for_worker.dart
 
 - 관리자
-admin_dashboard_page
+admin_dashboard_page.dart
 
-상현 : 홈페이지 map폴더
+상현 : user map 폴더
 다원 : 로그인 auth폴더
 찬솔 : 대시보드 dashboard 폴더
-신영 : 아저씨 worker폴더
+신영 : worker map 폴더
 광태 : 예약 reservation 폴더
 혜전 : splash, ERD, workbench.
